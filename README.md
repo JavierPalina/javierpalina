@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, NextJS and React Native**
 
-- 📫 How to reach me **javierpalina0@gmail.com**
+- 📫 How to reach me **javierpalina@prakcint.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
