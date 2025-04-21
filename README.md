@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [[https://javierpalina.github.io/Portfolio/](https://www.javierpalina.com/)]([https://javierpalina.com](https://www.javierpalina.com/))
+- 👨‍💻 All of my projects are available at [[https://javierpalina.com](https://www.javierpalina.com/)]
 
 - 💬 Ask me about **React, NextJS and React Native**
 
